@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arafat Ali</h1>
 <h3 align="center">A Professional frontend & backend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **School Management System**
+- 🔭 I’m currently working on **Inventory Management System**
 
 - 🌱 I’m currently learning **vue.js, vuex**
 
