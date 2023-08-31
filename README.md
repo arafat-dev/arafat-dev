@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arafat Ali</h1>
 <h3 align="center">Fullstack Web Developer From Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arafat69" alt="arafat69" /></a> </p>
-
 - 🔭 I’m currently working on [Laundry Management System](Simple Task Management)
 
 - 🌱 I’m currently learning **Laravel, Pinia, Tailwind.css,**
@@ -25,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arafat69&show_icons=true&locale=en&layout=compact" alt="arafat69" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arafat69&show_icons=true&locale=en" alt="arafat69" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arafat69&" alt="arafat69" /></p>
