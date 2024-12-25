@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web development projects<br>👯 I’m looking to collaborate on web development projects<br>🤝 I’m looking for help with web development projects<br>🌱 I’m currently learning ...<br>💬 Ask me about web development projects<br>⚡ Fun fact
+🔭 I’m currently working on web development projects<br>👯 I’m looking to collaborate on web development <br>🤝 I’m looking for help with web development<br>🌱 I’m currently learning ...<br>💬 Ask me about web development<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
